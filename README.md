@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0135-candy) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0135-candy) |
+## Binary Search
+|  |
+| ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0745-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
