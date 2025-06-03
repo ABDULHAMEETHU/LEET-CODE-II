@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0745-find-smallest-letter-greater-than-target) |
+## Math
+|  |
+| ------- |
+| [2383-add-two-integers](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/2383-add-two-integers) |
 <!---LeetCode Topics End-->
