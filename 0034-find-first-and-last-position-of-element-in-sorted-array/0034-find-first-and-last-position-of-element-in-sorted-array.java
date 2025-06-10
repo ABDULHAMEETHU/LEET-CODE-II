@@ -3,7 +3,7 @@ class Solution {
         int start=0;
         int end=nums.length-1;
         int arr[] = new int[2];
-        arr[0] = FirstSearch(nums,start,end,target);
+        arr[0] = FirstSearch(nums,start,end,target); // first element 
         arr[1] = LastSearch(nums,start,end,target);
         return arr;
     }
