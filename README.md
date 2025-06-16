@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0724-find-pivot-index](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Two Pointers
 |  |
 | ------- |
