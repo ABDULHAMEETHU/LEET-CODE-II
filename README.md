@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0135-candy) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0724-find-pivot-index](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0724-find-pivot-index) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
