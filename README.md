@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0119-pascals-triangle-ii) |
 | [0135-candy](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0135-candy) |
 | [0268-missing-number](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0724-find-pivot-index) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0392-is-subsequence) |
 ## Sorting
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Math
@@ -80,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
