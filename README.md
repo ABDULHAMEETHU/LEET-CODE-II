@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Matrix
 |  |
