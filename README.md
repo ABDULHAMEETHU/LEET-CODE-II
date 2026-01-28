@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0013-roman-to-integer) |
 | [0392-is-subsequence](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0268-missing-number) |
 | [2383-add-two-integers](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/2383-add-two-integers) |
 ## Prefix Sum
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ABDULHAMEETHU/LEET-CODE-II/tree/master/0350-intersection-of-two-arrays-ii) |
